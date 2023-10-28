@@ -1,0 +1,7 @@
+there are various styles in css
+inline,internal,and external
+inline;-inline styles are nothing but the code we write with html element
+internal:-internal styles are specified in the head tag
+external:- external files are nothing but the files we write in the external css file and combining with the html code.
+inline styles have more specificity than other two.
+in the remaining other two the first we write is applied. 
